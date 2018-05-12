@@ -1,0 +1,28 @@
+_repo: The-Easiest-Way--13-Representative-Plays-by-American-Dramatists--1856-1911_13050
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Walter, Eugene
+    birthdate: 1874
+    deathdate: 1941
+    gutenberg_agent_id: '4803'
+    url: http://www.gutenberg.org/2009/agents/4803
+description: ''
+gutenberg_issued: '2004-07-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13050'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Drama'
+- !lcc 'PS'
+- !lcsh 'Mistresses -- Drama'
+- !lcsh 'Women -- Conduct of life -- Drama'
+title: "The Easiest Way\r\nRepresentative Plays by American Dramatists: 1856-1911"
+url: http://www.gutenberg.org/ebooks/13050
