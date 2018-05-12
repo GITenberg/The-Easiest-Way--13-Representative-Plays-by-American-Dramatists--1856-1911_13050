@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '4803'
     url: http://www.gutenberg.org/2009/agents/4803
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13050#The-Easiest-Way--13-Representative-Plays-by-American-Dramatists--1856-1911
 gutenberg_issued: '2004-07-29'
 gutenberg_type: Text
 identifiers:
